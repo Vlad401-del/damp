@@ -1,2 +1,0 @@
-# damp
-proyek akhir damp
